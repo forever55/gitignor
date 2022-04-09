@@ -1,0 +1,6 @@
+css/
+*.rtf
+img/
+*.html_old
+/js
+tmp/
